@@ -108,8 +108,8 @@ The Power BI dashboard contains **3 pages**:
 
 ## Files Included in Repository
 
-* `Superstore_Data.xlsx` → Raw and Cleaned Data
-* `Sales_Dashboard.pbix` → Power BI Dashboard
+* `Orders.xlsx` → Raw and Cleaned Data
+* `Sales.pbix` → Power BI Dashboard
 * `README.md` → Project Documentation
 
 ---
@@ -130,4 +130,4 @@ This dashboard can help businesses make **data-driven decisions** to improve pro
 
 ## Author
 
-**Your Name**
+Gaurav Yadav
